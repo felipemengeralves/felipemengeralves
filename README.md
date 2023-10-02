@@ -8,8 +8,8 @@ Meu foco atualmente esta em Fullstack
 
 <div>
   
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemengeralves&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemengeralves&layout=compact&theme=tokyonight"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemengeralves&hide=javascript,html)
+![Felipe Menger's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemengeralves&show_icons=true&theme=nord)
   
 </div>
 
